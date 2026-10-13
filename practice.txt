@@ -1,1 +1,2 @@
 Git practice - Day 7 Homework
+Git tracks changes in my local repository.
